@@ -1,0 +1,11 @@
+.gitignore:
+.env
+*.pem
+*.key
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+.env.example:
+DEMO_API_KEY= "123654789325"
